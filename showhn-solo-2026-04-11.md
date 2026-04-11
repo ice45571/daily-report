@@ -151,7 +151,7 @@
 **今日最热讨论**: [Show HN: I built a Rotten Tomatoes-style platform for durable products](https://www.buyforlifeproducts.com/) — 398条评论
   网站 / Web 平台 | （正文内容有限，难以从文字中明确识别，可点链接查看完整产品介绍）
 
-**今日产品类型**: 独立产品 / 工具 / 硬件 / 实体产品 / 网站 / Web 平台 / 命令行工具 (CLI)
+**今日产品类型**: 网站 / Web 平台 / 独立产品 / 工具 / 命令行工具 (CLI) / 硬件 / 实体产品
 
 **💡 值得关注的思路**
 1. 找到自己每天被困扰的小麻烦——这就是创业起点
