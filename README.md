@@ -1,5 +1,5 @@
-# Daily Show HN Solo Founder Report
+# Show HN 独立开发者日报
 
-每日自动更新 | 脚本: `cron-showhn.py`
+每日自动更新
 
-最新报告: [2026-04-11](showhn-solo-2026-04-11.md)
+[查看今日报告](showhn-solo-2026-04-11.md)
