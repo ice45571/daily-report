@@ -1,6 +1,6 @@
 # 🔍 独立开发者情报日报
 
-**日期**: 2026-04-11 21:35
+**日期**: 2026-04-11 21:46
 
 ---
 
@@ -54,11 +54,11 @@
 
 🔗 [产品](https://github.com/DidierRLopes/GamestonkTerminal) | [HN讨论](https://news.ycombinator.com/item?id=26258773)
 
-**这个产品是啥**：Bloomberg Terminal的免费替代
+**这个产品是啥**：把飞行记录变成3D地球仪
 
-**解决什么问题**：Bloomberg一个月要2万多美元，普通投资者用不起，他用开源做了一个类似工具
+**解决什么问题**：飞行员要记飞行日志，他把数据可视化，地球上一飞就能看到自己的航线
 
-**为什么值得看**：高价工具的免费替代永远有市场；散户+工具平替，双重流量密码
+**为什么值得看**：职业工具做出美感；「把枯燥记录变好看」在很多职业都存在机会
 
 ---
 
@@ -91,325 +91,327 @@
 ---
 
 
-## Q2: GitHub 热门开源新项目
+## Q2: GitHub Trending 热门开源新项目
 
 _已去重：之前提过的项目今天不再出现_
 
-### 1. [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+### 1. [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-⭐ **29972** stars | 语言: Rust | 创建: 2026-02-13
+⭐ **442597** stars | 语言: TypeScript
 
-**这是啥**：Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deplo
+**这是啥**：freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer scienc
 
-**类型**：AI 相关
+**类型**：TypeScript 项目
 
-**为什么火**：极火（29972 stars），已大规模传播；较新项目，概念新鲜，容易引发关注；强调性能，速度快永远是好产品的核心竞争力
+**为什么火**：极火（442597 stars）；宽松开源许可证，传播成本极低
 
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但可能已经存在强烈竞争
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
 
-> Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
-
----
-
-### 2. [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)
-
-⭐ **29633** stars | 语言: Python | 创建: 2024-08-04
-
-**这是啥**：AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial
-
-**类型**：AI 相关
-
-**为什么火**：极火（29633 stars），已大规模传播；强调简单轻量，开发者喜欢「不花时间学」的工具
-
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multi
+> freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ---
 
-### 3. [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+### 2. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
-⭐ **29372** stars | 语言: TypeScript | 创建: 2025-01-19
+⭐ **385337** stars | 语言: Python
 
-**这是啥**：The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+**这是啥**：:books: Freely available programming books
+
+**类型**：AI 相关
+
+**为什么火**：极火（385337 stars）；宽松开源许可证，传播成本极低
+
+**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> :books: Freely available programming books
+
+---
+
+### 3. [openclaw/openclaw](https://github.com/openclaw/openclaw)
+
+⭐ **354626** stars | 语言: TypeScript
+
+**这是啥**：Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
+**类型**：AI 相关
+
+**为什么火**：极火（354626 stars）
+
+**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
+---
+
+### 4. [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+⭐ **352681** stars | 语言: TypeScript
+
+**这是啥**：Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+**类型**：TypeScript 项目
+
+**为什么火**：极火（352681 stars）
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+---
+
+### 5. [vinta/awesome-python](https://github.com/vinta/awesome-python)
+
+⭐ **291716** stars | 语言: Python
+
+**这是啥**：An opinionated list of Python frameworks, libraries, tools, and resources
+
+**类型**：命令行工具
+
+**为什么火**：极火（291716 stars）
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> An opinionated list of Python frameworks, libraries, tools, and resources
+
+---
+
+### 6. [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
+⭐ **285332** stars | 语言: 
+
+**这是啥**：A list of Free Software network services and web applications which can be hosted on your own server
 
 **类型**：Web 框架 / 前端
 
-**为什么火**：极火（29372 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
+**为什么火**：极火（285332 stars）；宽松开源许可证，传播成本极低
 
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
 
-> The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-
----
-
-### 4. [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
-
-⭐ **29314** stars | 语言: 未识别 | 创建: 2026-02-08
-
-**这是啥**：A community collection of OpenClaw use cases for making life easier.
-
-**类型**：工具 / 项目
-
-**为什么火**：极火（29314 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
-
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> A community collection of OpenClaw use cases for making life easier.
+> A list of Free Software network services and web applications which can be hosted on your own servers
 
 ---
 
-### 5. [github/awesome-copilot](https://github.com/github/awesome-copilot)
+### 7. [facebook/react](https://github.com/facebook/react)
 
-⭐ **29314** stars | 语言: Python | 创建: 2025-06-11
+⭐ **244420** stars | 语言: JavaScript
 
-**这是啥**：Community-contributed instructions, agents, skills, and configurations to help you make the most of 
+**这是啥**：The library for web and native user interfaces.
+
+**类型**：Web 框架 / 前端
+
+**为什么火**：极火（244420 stars）
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> The library for web and native user interfaces.
+
+---
+
+### 8. [torvalds/linux](https://github.com/torvalds/linux)
+
+⭐ **228014** stars | 语言: C
+
+**这是啥**：Linux kernel source tree
+
+**类型**：C 项目
+
+**为什么火**：极火（228014 stars）
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> Linux kernel source tree
+
+---
+
+### 9. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
+⭐ **219498** stars | 语言: Python
+
+**这是啥**：All Algorithms implemented in Python
 
 **类型**：Python 项目
 
-**为什么火**：极火（29314 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
+**为什么火**：极火（219498 stars）
 
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
 
-> Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-
----
-
-### 6. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-
-⭐ **29281** stars | 语言: Python | 创建: 2026-01-10
-
-**这是啥**：LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system f
-
-**类型**：AI 相关
-
-**为什么火**：极火（29281 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
-
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+> All Algorithms implemented in Python
 
 ---
 
-### 7. [github/github-mcp-server](https://github.com/github/github-mcp-server)
+### 10. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 
-⭐ **28764** stars | 语言: Go | 创建: 2025-03-04
+⭐ **194656** stars | 语言: C++
 
-**这是啥**：GitHub's official MCP Server
-
-**类型**：后端服务
-
-**为什么火**：极火（28764 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
-
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> GitHub's official MCP Server
-
----
-
-### 8. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-
-⭐ **28606** stars | 语言: Rust | 创建: 2026-01-11
-
-**这是啥**：Browser automation CLI for AI agents
-
-**类型**：命令行工具
-
-**为什么火**：极火（28606 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
-
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> Browser automation CLI for AI agents
-
----
-
-### 9. [voideditor/void](https://github.com/voideditor/void)
-
-⭐ **28544** stars | 语言: TypeScript | 创建: 2024-09-11
-
-**这是啥**：一个TypeScript 项目
-
-**类型**：TypeScript 项目
-
-**为什么火**：极火（28544 stars），已大规模传播
-
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
-
----
-
-### 10. [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
-
-⭐ **28260** stars | 语言: 未识别 | 创建: 2024-12-20
-
-**这是啥**：The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. 
-
-**类型**：AI 相关
-
-**为什么火**：极火（28260 stars），已大规模传播
-
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides l
-
----
-
-### 11. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
-
-⭐ **28067** stars | 语言: Rust | 创建: 2025-11-26
-
-**这是啥**：Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr
-
-**类型**：命令行工具
-
-**为什么火**：极火（28067 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
-
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业
-
----
-
-### 12. [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
-
-⭐ **28013** stars | 语言: Go | 创建: 2026-02-04
-
-**这是啥**：Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
-
-**类型**：DevOps / 部署
-
-**为什么火**：极火（28013 stars），已大规模传播；较新项目，概念新鲜，容易引发关注；强调简单轻量，开发者喜欢「不花时间学」的工具；强调性能，速度快永远是好产品的核心竞争力
-
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
-
----
-
-### 13. [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
-
-⭐ **27896** stars | 语言: TypeScript | 创建: 2025-10-10
-
-**这是啥**：Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia
-
-**类型**：TypeScript 项目
-
-**为什么火**：极火（27896 stars），已大规模传播；较新项目，概念新鲜，容易引发关注；宽松开源许可证，传播成本极低
-
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-
----
-
-### 14. [huggingface/agents-course](https://github.com/huggingface/agents-course)
-
-⭐ **27749** stars | 语言: MDX | 创建: 2025-01-16
-
-**这是啥**：This repository contains the Hugging Face Agents Course. 
-
-**类型**：AI 相关
-
-**为什么火**：极火（27749 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
-
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> This repository contains the Hugging Face Agents Course. 
-
----
-
-### 15. [simstudioai/sim](https://github.com/simstudioai/sim)
-
-⭐ **27711** stars | 语言: TypeScript | 创建: 2025-01-05
-
-**这是啥**：Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforc
+**这是啥**：An Open Source Machine Learning Framework for Everyone
 
 **类型**：Web 框架 / 前端
 
-**为什么火**：极火（27711 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
+**为什么火**：极火（194656 stars）；宽松开源许可证，传播成本极低
 
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
 
-> Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+> An Open Source Machine Learning Framework for Everyone
 
 ---
 
-### 16. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+### 11. [microsoft/vscode](https://github.com/microsoft/vscode)
 
-⭐ **27587** stars | 语言: TypeScript | 创建: 2026-01-09
+⭐ **183708** stars | 语言: TypeScript
 
-**这是啥**：Teams-first Multi-agent orchestration for Claude Code
+**这是啥**：Visual Studio Code
+
+**类型**：TypeScript 项目
+
+**为什么火**：极火（183708 stars）
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> Visual Studio Code
+
+---
+
+### 12. [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
+⭐ **183547** stars | 语言: TypeScript
+
+**这是啥**：Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus
 
 **类型**：AI 相关
 
-**为什么火**：极火（27587 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
+**为什么火**：极火（183547 stars）
 
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但可能已经存在强烈竞争
+**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但竞争可能已经很激烈
 
-> Teams-first Multi-agent orchestration for Claude Code
-
----
-
-### 17. [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-
-⭐ **27545** stars | 语言: Shell | 创建: 2024-11-01
-
-**这是啥**：Proxmox VE Helper-Scripts (Community Edition) 
-
-**类型**：Shell 项目
-
-**为什么火**：极火（27545 stars），已大规模传播
-
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> Proxmox VE Helper-Scripts (Community Edition) 
+> Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ---
 
-### 18. [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
+### 13. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
-⭐ **27105** stars | 语言: TypeScript | 创建: 2026-01-31
+⭐ **183312** stars | 语言: Python
 
-**这是啥**：A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Te
-
-**类型**：SDK / API 封装
-
-**为什么火**：极火（27105 stars），已大规模传播；较新项目，概念新鲜，容易引发关注；强调简单轻量，开发者喜欢「不花时间学」的工具
-
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
-
-> A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging 
-
----
-
-### 19. [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
-
-⭐ **26809** stars | 语言: TypeScript | 创建: 2025-03-23
-
-**这是啥**：A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you
+**这是啥**：AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi
 
 **类型**：命令行工具
 
-**为什么火**：极火（26809 stars），已大规模传播；较新项目，概念新鲜，容易引发关注
+**为什么火**：极火（183312 stars）
 
-**对开发者的启发**：高分项目说明市场验证充分，但可能已经存在强烈竞争
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
 
-> A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through n
+> AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matter
 
 ---
 
-### 20. [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+### 14. [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
 
-⭐ **26697** stars | 语言: Jupyter Notebook | 创建: 2024-07-13
+⭐ **181246** stars | 语言: Rust
 
-**这是啥**：This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) syste
+**这是啥**：The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. 
+
+**类型**：Rust 项目
+
+**为什么火**：极火（181246 stars）；强调性能，速度快永远是好产品的核心竞争力
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built i
+
+---
+
+### 15. [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
+⭐ **181167** stars | 语言: Jupyter Notebook
+
+**这是啥**：Python - 100天从新手到大师
+
+**类型**：Jupyter Notebook 项目
+
+**为什么火**：极火（181167 stars）
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> Python - 100天从新手到大师
+
+---
+
+### 16. [flutter/flutter](https://github.com/flutter/flutter)
+
+⭐ **175926** stars | 语言: Dart
+
+**这是啥**：Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+**类型**：Dart 项目
+
+**为什么火**：极火（175926 stars）；强调简单轻量，开发者喜欢不花时间学的工具；强调性能，速度快永远是好产品的核心竞争力；颜值高，开发者愿意分享截图
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+---
+
+### 17. [twbs/bootstrap](https://github.com/twbs/bootstrap)
+
+⭐ **174144** stars | 语言: MDX
+
+**这是啥**：The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first project
+
+**类型**：Web 框架 / 前端
+
+**为什么火**：极火（174144 stars）
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+---
+
+### 18. [github/gitignore](https://github.com/github/gitignore)
+
+⭐ **173345** stars | 语言: 
+
+**这是啥**：A collection of useful .gitignore templates
+
+**类型**：工具 / 项目
+
+**为什么火**：极火（173345 stars）
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> A collection of useful .gitignore templates
+
+---
+
+### 19. [avelino/awesome-go](https://github.com/avelino/awesome-go)
+
+⭐ **169670** stars | 语言: Go
+
+**这是啥**：A curated list of awesome Go frameworks, libraries and software
+
+**类型**：Web 框架 / 前端
+
+**为什么火**：极火（169670 stars）
+
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+
+> A curated list of awesome Go frameworks, libraries and software
+
+---
+
+### 20. [ollama/ollama](https://github.com/ollama/ollama)
+
+⭐ **168566** stars | 语言: Go
+
+**这是啥**：Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 **类型**：AI 相关
 
-**为什么火**：极火（26697 stars），已大规模传播
+**为什么火**：极火（168566 stars）
 
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但可能已经存在强烈竞争
+**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但竞争可能已经很激烈
 
-> This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutoria
+> Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ---
 
@@ -419,13 +421,13 @@ _已去重：之前提过的项目今天不再出现_
 - 自己做了一台笔记本电脑
 - 6个月，纯手工打造一台能用的笔记本，极客精神拉满，工程量巨大
 
-**GitHub 今日最热**：[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) — 29633stars
-- AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial
-- 极火（29633 stars），已大规模传播；强调简单轻量，开发者喜欢「不花时间学」的工具
+**GitHub 今日最热**：[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — 442597stars
+- freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer scienc
+- 极火（442597 stars）；宽松开源许可证，传播成本极低
 
 **💡 值得关注的共同点**
 1. 解决真实痛点的产品分数最高——概念类产品很难爆
 2. 「从零造」+ 「自己做」的故事天然带传播力
 3. 开源工具 + 清晰 README = 最低成本的传播组合
-4. GitHub 高星新项目代表当前技术圈的关注方向，值得关注
+4. GitHub Trending 代表当前技术圈的关注方向，值得关注
 
