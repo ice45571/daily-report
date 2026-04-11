@@ -1,6 +1,6 @@
 # 🔍 独立开发者情报日报
 
-**日期**: 2026-04-11 21:46
+**日期**: 2026-04-11 21:50
 
 ---
 
@@ -54,11 +54,11 @@
 
 🔗 [产品](https://github.com/DidierRLopes/GamestonkTerminal) | [HN讨论](https://news.ycombinator.com/item?id=26258773)
 
-**这个产品是啥**：把飞行记录变成3D地球仪
+**这个产品是啥**：Bloomberg Terminal的免费替代
 
-**解决什么问题**：飞行员要记飞行日志，他把数据可视化，地球上一飞就能看到自己的航线
+**解决什么问题**：Bloomberg一个月要2万多美元，普通投资者用不起，他用开源做了一个类似工具
 
-**为什么值得看**：职业工具做出美感；「把枯燥记录变好看」在很多职业都存在机会
+**为什么值得看**：高价工具的免费替代永远有市场；散户+工具平替，双重流量密码
 
 ---
 
@@ -95,323 +95,211 @@
 
 _已去重：之前提过的项目今天不再出现_
 
-### 1. [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+### 1. [sponsors/obra](https://github.com/sponsors/obra)
 
-⭐ **442597** stars | 语言: TypeScript
+⭐ **146,602** stars | 语言: Shell
 
-**这是啥**：freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer scienc
-
-**类型**：TypeScript 项目
-
-**为什么火**：极火（442597 stars）；宽松开源许可证，传播成本极低
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-
----
-
-### 2. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-
-⭐ **385337** stars | 语言: Python
-
-**这是啥**：:books: Freely available programming books
-
-**类型**：AI 相关
-
-**为什么火**：极火（385337 stars）；宽松开源许可证，传播成本极低
-
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> :books: Freely available programming books
-
----
-
-### 3. [openclaw/openclaw](https://github.com/openclaw/openclaw)
-
-⭐ **354626** stars | 语言: TypeScript
-
-**这是啥**：Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-
-**类型**：AI 相关
-
-**为什么火**：极火（354626 stars）
-
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-
----
-
-### 4. [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-
-⭐ **352681** stars | 语言: TypeScript
-
-**这是啥**：Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-**类型**：TypeScript 项目
-
-**为什么火**：极火（352681 stars）
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
----
-
-### 5. [vinta/awesome-python](https://github.com/vinta/awesome-python)
-
-⭐ **291716** stars | 语言: Python
-
-**这是啥**：An opinionated list of Python frameworks, libraries, tools, and resources
-
-**类型**：命令行工具
-
-**为什么火**：极火（291716 stars）
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> An opinionated list of Python frameworks, libraries, tools, and resources
-
----
-
-### 6. [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-
-⭐ **285332** stars | 语言: 
-
-**这是啥**：A list of Free Software network services and web applications which can be hosted on your own server
+**这是啥**：An agentic skills framework & software development methodology that works.
 
 **类型**：Web 框架 / 前端
 
-**为什么火**：极火（285332 stars）；宽松开源许可证，传播成本极低
+**为什么火**：极火（146,602 stars）
 
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已很激烈
 
-> A list of Free Software network services and web applications which can be hosted on your own servers
-
----
-
-### 7. [facebook/react](https://github.com/facebook/react)
-
-⭐ **244420** stars | 语言: JavaScript
-
-**这是啥**：The library for web and native user interfaces.
-
-**类型**：Web 框架 / 前端
-
-**为什么火**：极火（244420 stars）
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> The library for web and native user interfaces.
+> An agentic skills framework & software development methodology that works.
 
 ---
 
-### 8. [torvalds/linux](https://github.com/torvalds/linux)
+### 2. [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
-⭐ **228014** stars | 语言: C
+⭐ **101,139** stars | 语言: Python
 
-**这是啥**：Linux kernel source tree
-
-**类型**：C 项目
-
-**为什么火**：极火（228014 stars）
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> Linux kernel source tree
-
----
-
-### 9. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-
-⭐ **219498** stars | 语言: Python
-
-**这是啥**：All Algorithms implemented in Python
+**这是啥**：Python tool for converting files and office documents to Markdown.
 
 **类型**：Python 项目
 
-**为什么火**：极火（219498 stars）
+**为什么火**：极火（101,139 stars）
 
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已很激烈
 
-> All Algorithms implemented in Python
-
----
-
-### 10. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-
-⭐ **194656** stars | 语言: C++
-
-**这是啥**：An Open Source Machine Learning Framework for Everyone
-
-**类型**：Web 框架 / 前端
-
-**为什么火**：极火（194656 stars）；宽松开源许可证，传播成本极低
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> An Open Source Machine Learning Framework for Everyone
+> Python tool for converting files and office documents to Markdown.
 
 ---
 
-### 11. [microsoft/vscode](https://github.com/microsoft/vscode)
+### 3. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 
-⭐ **183708** stars | 语言: TypeScript
+⭐ **67,638** stars | 语言: Roff
 
-**这是啥**：Visual Studio Code
+**这是啥**：所有小初高、大学PDF教材。
 
-**类型**：TypeScript 项目
+**类型**：Roff 项目
 
-**为什么火**：极火（183708 stars）
+**为什么火**：极火（67,638 stars）
 
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已很激烈
 
-> Visual Studio Code
+> 所有小初高、大学PDF教材。
 
 ---
 
-### 12. [n8n-io/n8n](https://github.com/n8n-io/n8n)
+### 4. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
-⭐ **183547** stars | 语言: TypeScript
+⭐ **56,211** stars | 语言: Python
 
-**这是啥**：Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus
+**这是啥**：The agent that grows with you
 
 **类型**：AI 相关
 
-**为什么火**：极火（183547 stars）
+**为什么火**：极火（56,211 stars）
 
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但竞争可能已经很激烈
+**对开发者的启发**：AI 赛道热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但竞争可能已很激烈
 
-> Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
----
-
-### 13. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
-⭐ **183312** stars | 语言: Python
-
-**这是啥**：AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi
-
-**类型**：命令行工具
-
-**为什么火**：极火（183312 stars）
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matter
+> The agent that grows with you
 
 ---
 
-### 14. [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+### 5. [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 
-⭐ **181246** stars | 语言: Rust
+⭐ **36,576** stars | 语言: HTML
 
-**这是啥**：The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. 
+**这是啥**：practice made claude perfect
 
-**类型**：Rust 项目
+**类型**：AI 相关
 
-**为什么火**：极火（181246 stars）；强调性能，速度快永远是好产品的核心竞争力
+**为什么火**：极火（36,576 stars）
 
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+**对开发者的启发**：AI 赛道热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但竞争可能已很激烈
 
-> The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built i
-
----
-
-### 15. [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
-
-⭐ **181167** stars | 语言: Jupyter Notebook
-
-**这是啥**：Python - 100天从新手到大师
-
-**类型**：Jupyter Notebook 项目
-
-**为什么火**：极火（181167 stars）
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> Python - 100天从新手到大师
+> practice made claude perfect
 
 ---
 
-### 16. [flutter/flutter](https://github.com/flutter/flutter)
+### 6. [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
 
-⭐ **175926** stars | 语言: Dart
+⭐ **21,498** stars | 语言: 
 
-**这是啥**：Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-**类型**：Dart 项目
-
-**为什么火**：极火（175926 stars）；强调简单轻量，开发者喜欢不花时间学的工具；强调性能，速度快永远是好产品的核心竞争力；颜值高，开发者愿意分享截图
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
----
-
-### 17. [twbs/bootstrap](https://github.com/twbs/bootstrap)
-
-⭐ **174144** stars | 语言: MDX
-
-**这是啥**：The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first project
-
-**类型**：Web 框架 / 前端
-
-**为什么火**：极火（174144 stars）
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-
----
-
-### 18. [github/gitignore](https://github.com/github/gitignore)
-
-⭐ **173345** stars | 语言: 
-
-**这是啥**：A collection of useful .gitignore templates
+**这是啥**：💅🏻 ⚒ A collection of awesome design systems
 
 **类型**：工具 / 项目
 
-**为什么火**：极火（173345 stars）
+**为什么火**：极火（21,498 stars）；颜值高
 
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
+**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已很激烈
 
-> A collection of useful .gitignore templates
-
----
-
-### 19. [avelino/awesome-go](https://github.com/avelino/awesome-go)
-
-⭐ **169670** stars | 语言: Go
-
-**这是啥**：A curated list of awesome Go frameworks, libraries and software
-
-**类型**：Web 框架 / 前端
-
-**为什么火**：极火（169670 stars）
-
-**对开发者的启发**：高分项目说明市场验证充分，但竞争可能已经很激烈
-
-> A curated list of awesome Go frameworks, libraries and software
+> 💅🏻 ⚒ A collection of awesome design systems
 
 ---
 
-### 20. [ollama/ollama](https://github.com/ollama/ollama)
+### 7. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 
-⭐ **168566** stars | 语言: Go
+⭐ **16,432** stars | 语言: Python
 
-**这是啥**：Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+**这是啥**："DeepTutor: Agent-Native Personalized Learning Assistant"
 
 **类型**：AI 相关
 
-**为什么火**：极火（168566 stars）
+**为什么火**：较火（16,432 stars）
 
-**对开发者的启发**：AI 赛道依然热，但同质化严重，差异化要靠垂直场景；高分项目说明市场验证充分，但竞争可能已经很激烈
+**对开发者的启发**：AI 赛道热，但同质化严重，差异化要靠垂直场景
 
-> Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+> "DeepTutor: Agent-Native Personalized Learning Assistant"
+
+---
+
+### 8. [coleam00/Archon](https://github.com/coleam00/Archon)
+
+⭐ **16,168** stars | 语言: TypeScript
+
+**这是啥**：The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+
+**类型**：AI 相关
+
+**为什么火**：较火（16,168 stars）
+
+**对开发者的启发**：AI 赛道热，但同质化严重，差异化要靠垂直场景
+
+> The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+
+---
+
+### 9. [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+
+⭐ **15,253** stars | 语言: Java
+
+**这是啥**：PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
+**类型**：AI 相关
+
+**为什么火**：较火（15,253 stars）
+
+**对开发者的启发**：AI 赛道热，但同质化严重，差异化要靠垂直场景
+
+> PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
+---
+
+### 10. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
+⭐ **13,217** stars | 语言: Python
+
+**这是啥**：Kronos: A Foundation Model for the Language of Financial Markets
+
+**类型**：Python 项目
+
+**为什么火**：较火（13,217 stars）
+
+**对开发者的启发**：暂无特定启发，建议直接使用感受
+
+> Kronos: A Foundation Model for the Language of Financial Markets
+
+---
+
+### 11. [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+
+⭐ **12,373** stars | 语言: 
+
+**这是啥**：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations
+
+**类型**：AI 相关
+
+**为什么火**：较火（12,373 stars）
+
+**对开发者的启发**：AI 赛道热，但同质化严重，差异化要靠垂直场景
+
+> A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+---
+
+### 12. [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
+⭐ **9,395** stars | 语言: Python
+
+**这是啥**：VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L
+
+**类型**：Python 项目
+
+**为什么火**：较火（9,395 stars）；宽松开源许可证；颜值高
+
+**对开发者的启发**：暂无特定启发，建议直接使用感受
+
+> VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+
+---
+
+### 13. [multica-ai/multica](https://github.com/multica-ai/multica)
+
+⭐ **7,193** stars | 语言: TypeScript
+
+**这是啥**：The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac
+
+**类型**：AI 相关
+
+**为什么火**：较火（7,193 stars）
+
+**对开发者的启发**：AI 赛道热，但同质化严重，差异化要靠垂直场景
+
+> The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 
 ---
 
@@ -421,13 +309,13 @@ _已去重：之前提过的项目今天不再出现_
 - 自己做了一台笔记本电脑
 - 6个月，纯手工打造一台能用的笔记本，极客精神拉满，工程量巨大
 
-**GitHub 今日最热**：[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — 442597stars
-- freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer scienc
-- 极火（442597 stars）；宽松开源许可证，传播成本极低
+**GitHub 今日最热**：[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — 56,211stars
+- The agent that grows with you
+- 极火（56,211 stars）
 
 **💡 值得关注的共同点**
 1. 解决真实痛点的产品分数最高——概念类产品很难爆
 2. 「从零造」+ 「自己做」的故事天然带传播力
 3. 开源工具 + 清晰 README = 最低成本的传播组合
-4. GitHub Trending 代表当前技术圈的关注方向，值得关注
+4. GitHub Trending 代表当前技术圈的关注方向
 
